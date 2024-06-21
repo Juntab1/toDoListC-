@@ -86,7 +86,9 @@ Later put into a ReadMe:
 GOAL: Create a O(1) toDoList
 1. create a simple toDoList where we can take in name of the list and use an arraylist to keep track of variables
     - function: set/get, add task, and read 
-2. Create a remove task that is O(1)
+2. Create a remove task that is O(1), did this by using a hashmap to keep track of what value is at what index.
+    - maybe need to find a way to print at a certain way since right now it is taking the last element and 
+    moving it forward.
 
 
 
