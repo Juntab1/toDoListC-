@@ -1,0 +1,14 @@
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\bin\Debug\net8.0\toDo.exe
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\bin\Debug\net8.0\toDo.deps.json
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\bin\Debug\net8.0\toDo.runtimeconfig.json
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\bin\Debug\net8.0\toDo.dll
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\bin\Debug\net8.0\toDo.pdb
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.AssemblyInfoInputs.cache
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.AssemblyInfo.cs
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.dll
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\refint\toDo.dll
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.pdb
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.genruntimeconfig.cache
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\ref\toDo.dll
