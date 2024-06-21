@@ -12,3 +12,4 @@ C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\refint\toDo.dll
 C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.pdb
 C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.genruntimeconfig.cache
 C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\ref\toDo.dll
+C:\Users\junta\OneDrive\Desktop\toDoListC\toDo\obj\Debug\net8.0\toDo.sourcelink.json

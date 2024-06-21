@@ -7,6 +7,7 @@ public class toDoList
     private string? name;
     // keep track of what tasks are in the toDoList
     private ArrayList currList = new ArrayList();
+    private Dictionary<int,string> taskToInd = new Dictionary<int, string>();
 
     // don't need a constructor here it is better to use a get and setter.
     // make sure it is capital "N" even when the variable is lowercase.
@@ -24,6 +25,25 @@ public class toDoList
     public void add(String task)
     {
         currList.Add(task);
+        taskToInd[currList.Count - 1] = task;
+    }
+
+    // user puts in 1-currList.Count.
+    // Do not want the user to think it is 0 index
+    public void remove(int ind)
+    {
+        // get real index
+        int realInd = ind - 1;
+        if (realInd < currList.Count && realInd >= 0){
+            // get the value of the element at the end of the arraylist
+            var currVal = taskToInd[currList.Count - 1];
+            // change the value of the arraylist to the value at the end of the arraylist
+            currList[realInd] = currVal;
+            // have to remove the variable at the end of the currList in the dictionary
+            taskToInd.Remove(currList.Count - 1);
+            // remove the last variable in the list
+            currList.RemoveAt(currList.Count - 1);
+        }
     }
 
     public void read()
@@ -54,6 +74,8 @@ class Program
         toDo.add("go shower");
         toDo.add("go workout");
         toDo.add("go work");
+        toDo.read();
+        toDo.remove(1);
         toDo.read();
     }
 }
