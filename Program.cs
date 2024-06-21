@@ -57,3 +57,20 @@ class Program
         toDo.read();
     }
 }
+
+
+/*
+Later put into a ReadMe:
+GOAL: Create a O(1) toDoList
+1. create a simple toDoList where we can take in name of the list and use an arraylist to keep track of variables
+    - function: set/get, add task, and read 
+2. Create a remove task that is O(1)
+
+
+
+
+
+
+Resource: 
+ - talking about creating own hash table: https://stackoverflow.com/questions/72591504/data-structure-that-performs-set-get-setall-in-o1
+*/
